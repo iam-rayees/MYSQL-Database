@@ -8,6 +8,9 @@ The goal is to show how databases actually work behind real applications in prod
 
 ---
 
+<img width="1024" height="1536" alt="ChatGPT Image Jan 19, 2026, 06_15_14 PM" src="https://github.com/user-attachments/assets/1beb6b95-19c2-4187-9bdf-84b8e61f2f08" />
+
+
 ## Architecture Components
 
 ### 1. Web Application Layer
